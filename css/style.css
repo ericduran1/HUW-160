@@ -16,5 +16,9 @@ ul, li {
 
 .body1 {
   border: 2px solid white;
-  background-color: white;
+  background-color: black;
+}
+
+p {
+  color: white;
 }
